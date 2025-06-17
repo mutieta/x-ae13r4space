@@ -16,12 +16,12 @@ class ActivityChart extends ChartWidget
             'datasets' => [
                 [
                     'label' => 'Views (K)',
-                    'data' => [24, 28, 31, 33, 26, 29], // Replace with real data
+                    'data' => [0, 2, 3, 3, 2, 2], // Replace with real data
                     'backgroundColor' => '#f59e0b', // amber-500
                 ],
                 [
                     'label' => 'Articles Published',
-                    'data' => [48, 52, 60, 50, 61, 69],
+                    'data' => [1, 2, 0, 3, 1, 6],
                     'backgroundColor' => '#6b21a8', // purple-800
                 ],
             ],
