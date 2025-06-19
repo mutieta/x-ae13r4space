@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Filament\Widgets;
+namespace App\Filament\Admin\Widgets;
 
 use Filament\Widgets\ChartWidget;
 
@@ -9,6 +9,7 @@ class ActivityChart extends ChartWidget
     protected static ?string $heading = 'Activity';
     protected static ?string $maxWidth = 'full';
     protected int | string | array $columnSpan = 'full';
+    protected static ?int $sort = 2;
     
     protected function getData(): array
     {
