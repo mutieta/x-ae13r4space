@@ -4,7 +4,7 @@ import { FaEnvelope, FaLock } from "react-icons/fa";
 import axios from "axios";
 import { useGoogleLogin } from "@react-oauth/google"; // useGoogleLogin hook
 
-const API_BASE_URL = "http://localhost:8000/api"; // Adjust if necessary
+const API_BASE_URL = "http://admin.xa13r4space.me/api"; // Adjust if necessary
 
 const AuthenticatorLogin = () => {
   const [email, setEmail] = useState("");

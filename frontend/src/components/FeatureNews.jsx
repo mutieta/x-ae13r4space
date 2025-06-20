@@ -16,7 +16,7 @@ function FeatureNews() {
         setLoading(true);
         setError(null);
 
-        const response = await fetch("http://localhost:8000/api/articles");
+        const response = await fetch("http://admin.xa13r4space.me/api/articles");
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
