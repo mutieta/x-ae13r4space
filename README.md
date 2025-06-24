@@ -2,6 +2,7 @@
 
 **x-æ13r4space** is a full-stack web application that brings the wonders of space science, astronomy, and exploration to your fingertips. Discover NASA’s Astronomy Picture of the Day, explore SpaceX missions, learn about NASA astronauts, chat with others, and stay updated on skywatching events—all in one interactive platform.
 
+**Demo: http://xa13r4space.me/**
 ---
 
 ## 🚀 Key Features
