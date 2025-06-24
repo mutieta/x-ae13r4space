@@ -4,12 +4,6 @@
 
 ---
 
-** Space Related News API ** 
-http://admin.xa13r4space.me/api/articles
-![Screenshot 2025-06-24 214926](https://github.com/user-attachments/assets/abf13c40-2824-4c6e-9cfa-a3f51705be8c)
-
-
-
 ## 🚀 Key Features
 
 - **Interactive Science Dashboard:**  
@@ -41,7 +35,7 @@ x-æ13r4space/
 ├── backend/                # Laravel + Filament Chat
 │   ├── app/
 │   ├── routes/
-│   ├── ... (other Laravel folders)
+│   ├── ... (folders)
 │   ├── composer.json
 │   └── ...
 │
